@@ -1,0 +1,3 @@
+- This is a chrome extension that can save the tab
+- This was created as part of scrimba course
+- The icon used is <a href="https://www.flaticon.com/free-icons/save" title="save icons">Save icons created by Freepik - Flaticon</a>
